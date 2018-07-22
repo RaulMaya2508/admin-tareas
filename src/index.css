@@ -1,0 +1,74 @@
+body {
+	background-color:#20232C;
+	color: white;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.backgrd-blue{
+  background-color: #00A8D8 !important;
+}
+.gray-color{
+  color:#6E737C;
+}
+.detalles{
+    font-size: 14px;
+    font-weight: bold;
+}
+.fecha{
+    font-size: 14px;
+    font-weight: bold;
+    float: right;
+}
+.duracion{
+  font-size: 50px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 40px;
+}
+.unidades{
+  font-weight: 600;
+}
+.btn-eleminar{
+  height: 21px;
+  padding-top: 5px;
+  border-radius: 7px;
+  background-color: #FA7381;
+  cursor: pointer;
+}
+.btn-eleminar:hover{
+  background-color: #D14256;
+}
+.btn-editar{
+  height: 21px;
+  padding-top: 5px;
+  border-radius: 7px;
+  background-color: #25C79C;
+  cursor: pointer;
+}
+.btn-editar:hover{
+  background-color: #336666;
+}
+.btn-realizada{
+  height: 21px;
+  padding-top: 5px;
+  border-radius: 7px;
+  background-color: #0FB2F2;
+  cursor: pointer;
+}
+.btn-realizada:hover{
+  background-color: #156D8C;
+}
+.btn-iniciar{
+  height: 21px;
+  padding-top: 5px;
+  border-radius: 7px;
+  background-color: #826AEA;
+  cursor: pointer;
+}
+.btn-iniciar:hover{
+  background-color: #463B96;
+}
+.no-view{
+  display: none;
+}

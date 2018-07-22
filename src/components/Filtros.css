@@ -1,0 +1,12 @@
+.cont-fecha-select{
+	float: right;
+	margin-left: 10px;
+}
+.select-head{
+    width: auto;
+    height: 30px;
+    font-size: 16px;
+    background-color: #404653;
+    border: 0px;
+    color: white;
+}

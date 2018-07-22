@@ -1,0 +1,15 @@
+.border-bottom-head{
+	border-bottom: 1px solid #404653;
+	color: white;
+}
+.cont-head{
+	margin-top: 90px;
+}
+.info-head{
+	font-size: 26px;
+}
+.cont-selects{
+	float: right;
+	width: auto;
+	height: 50px;
+}

@@ -1,0 +1,21 @@
+.cont-form-add{
+  margin:40px auto;
+  background-color: white;
+}
+.label-input{
+  font-weight: 600;
+}
+.form-control{
+  border: 2px solid #ced4da;
+}
+.no-view{
+  display: none;
+}
+.btn-send{
+    border: none;
+    margin: 0 auto;
+    background-color: #25C79C;
+    color: white;
+    width: 90px;
+    height: 30px;
+}
